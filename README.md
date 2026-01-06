@@ -28,3 +28,4 @@ This project highlights the practical implementation of artificial intelligence 
 
 ##OUTPUT
 
+<img width="971" height="272" alt="Image" src="https://github.com/user-attachments/assets/d9b9cbc8-7373-4859-8b13-a314e16964b0" />
